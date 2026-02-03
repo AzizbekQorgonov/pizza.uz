@@ -85,7 +85,7 @@ function Header() {
             className="bg-[#FF7010] flex items-center gap-2 px-4 py-2 rounded-lg text-white font-semibold"
           >
             <img className="w-5 h-5" src="/imgs/savacha.png" alt="cart" />
-            {totalPrice.toFixed(2)} $
+            {totalPrice.toFixed(2)} So'm
           </Link>
 
           {/* MOBILE BUTTON */}
